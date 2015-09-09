@@ -65,6 +65,12 @@
     <ClInclude Include="64.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="53.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="62.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.md">
@@ -104,6 +110,12 @@
       <Filter>Resource Files</Filter>
     </None>
     <None Include="64.md">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="53.md">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="62.md">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>
