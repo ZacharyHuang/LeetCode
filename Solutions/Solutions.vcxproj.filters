@@ -62,7 +62,7 @@
     <ClInclude Include="44.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="53.h">
+    <ClInclude Include="64.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -103,7 +103,7 @@
     <None Include="44.md">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="53.md">
+    <None Include="64.md">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>
