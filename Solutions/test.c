@@ -1,4 +1,4 @@
-#include "10.h"
+#include "32.h"
 
 int main()
 {

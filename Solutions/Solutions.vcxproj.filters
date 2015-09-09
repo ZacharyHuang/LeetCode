@@ -53,6 +53,12 @@
     <ClInclude Include="10.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="11.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="32.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.md">
@@ -80,6 +86,12 @@
       <Filter>Resource Files</Filter>
     </None>
     <None Include="10.md">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="11.md">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="32.md">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>
