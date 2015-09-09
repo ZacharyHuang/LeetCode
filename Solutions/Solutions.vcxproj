@@ -72,12 +72,15 @@
     <ClInclude Include="2.h" />
     <ClInclude Include="3.h" />
     <ClInclude Include="4.h" />
+    <ClInclude Include="6.h" />
     <ClInclude Include="common.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="1.md" />
     <None Include="2.md" />
     <None Include="3.md" />
+    <None Include="4.md" />
+    <None Include="6.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
