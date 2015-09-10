@@ -87,6 +87,7 @@
     <ClInclude Include="85.h" />
     <ClInclude Include="87.h" />
     <ClInclude Include="9.h" />
+    <ClInclude Include="91.h" />
     <ClInclude Include="96.h" />
     <ClInclude Include="common.h" />
   </ItemGroup>
@@ -110,6 +111,7 @@
     <None Include="85.md" />
     <None Include="87.md" />
     <None Include="9.md" />
+    <None Include="91.md" />
     <None Include="96.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
