@@ -83,6 +83,9 @@
     <ClInclude Include="85.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="87.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.md">
@@ -140,6 +143,9 @@
       <Filter>Resource Files</Filter>
     </None>
     <None Include="85.md">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="87.md">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>
