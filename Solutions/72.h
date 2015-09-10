@@ -5,7 +5,6 @@
 int minDistance(char* word1, char* word2) {
 	int l1 = strlen(word1);
 	int l2 = strlen(word2);
-	//int dp[1000];
 	int dp[l2 + 1];
 	int i, j, k;
 	// empty string
