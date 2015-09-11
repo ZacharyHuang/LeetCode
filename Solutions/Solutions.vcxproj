@@ -91,6 +91,7 @@
     <ClInclude Include="87.h" />
     <ClInclude Include="9.h" />
     <ClInclude Include="91.h" />
+    <ClInclude Include="95.h" />
     <ClInclude Include="96.h" />
     <ClInclude Include="97.h" />
     <ClInclude Include="common.h" />
@@ -119,6 +120,7 @@
     <None Include="87.md" />
     <None Include="9.md" />
     <None Include="91.md" />
+    <None Include="95.md" />
     <None Include="96.md" />
     <None Include="97.md" />
   </ItemGroup>
