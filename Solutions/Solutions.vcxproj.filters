@@ -241,5 +241,8 @@
     <None Include="15.md">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="188.md">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
