@@ -72,6 +72,7 @@
     <ClInclude Include="10.h" />
     <ClInclude Include="11.h" />
     <ClInclude Include="115.h" />
+    <ClInclude Include="12.h" />
     <ClInclude Include="120.h" />
     <ClInclude Include="121.h" />
     <ClInclude Include="123.h" />
@@ -111,6 +112,7 @@
     <None Include="10.md" />
     <None Include="11.md" />
     <None Include="115.md" />
+    <None Include="12.md" />
     <None Include="120.md" />
     <None Include="121.md" />
     <None Include="123.md" />
