@@ -82,6 +82,7 @@
     <ClInclude Include="16.h" />
     <ClInclude Include="17.h" />
     <ClInclude Include="174.h" />
+    <ClInclude Include="18.h" />
     <ClInclude Include="188.h" />
     <ClInclude Include="198.h" />
     <ClInclude Include="2.h" />
@@ -128,6 +129,7 @@
     <None Include="16.md" />
     <None Include="17.md" />
     <None Include="174.md" />
+    <None Include="18.md" />
     <None Include="188.md" />
     <None Include="198.md" />
     <None Include="2.md" />
