@@ -91,6 +91,8 @@
     <ClInclude Include="221.h" />
     <ClInclude Include="228.h" />
     <ClInclude Include="229.h" />
+    <ClInclude Include="235.h" />
+    <ClInclude Include="236.h" />
     <ClInclude Include="237.h" />
     <ClInclude Include="238.h" />
     <ClInclude Include="239.h" />
@@ -154,6 +156,8 @@
     <None Include="221.md" />
     <None Include="228.md" />
     <None Include="229.md" />
+    <None Include="235.md" />
+    <None Include="236.md" />
     <None Include="237.md" />
     <None Include="238.md" />
     <None Include="239.md" />
