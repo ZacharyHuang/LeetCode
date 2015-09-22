@@ -212,6 +212,9 @@
     <ClInclude Include="235.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="234.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.md">
@@ -398,6 +401,9 @@
       <Filter>Resource Files</Filter>
     </None>
     <None Include="235.md">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="234.md">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>
