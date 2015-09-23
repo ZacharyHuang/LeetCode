@@ -89,8 +89,10 @@
     <ClInclude Include="2.h" />
     <ClInclude Include="213.h" />
     <ClInclude Include="221.h" />
+    <ClInclude Include="227.h" />
     <ClInclude Include="228.h" />
     <ClInclude Include="229.h" />
+    <ClInclude Include="230.h" />
     <ClInclude Include="231.h" />
     <ClInclude Include="233.h" />
     <ClInclude Include="234.h" />
@@ -157,8 +159,10 @@
     <None Include="2.md" />
     <None Include="213.md" />
     <None Include="221.md" />
+    <None Include="227.md" />
     <None Include="228.md" />
     <None Include="229.md" />
+    <None Include="230.md" />
     <None Include="231.md" />
     <None Include="233.md" />
     <None Include="234.md" />
